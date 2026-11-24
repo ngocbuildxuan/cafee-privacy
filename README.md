@@ -1,5 +1,6 @@
 # Cafee privacy policy
 
-This repo publishes the privacy policy of the Cafee coffee brewing game with GitHub Pages.
+This repo publishes privacy policies with GitHub Pages.
 
-The page: https://ngocbuildxuan.github.io/cafee-privacy/
+- Café Latte (formerly Cafee): https://ngocbuildxuan.github.io/cafee-privacy/
+- The Ngoc Bui Studio games (Dango Defense, Mochi Combo, Pettan! Moon Mochi, Norikae Dash TOKYO, Norikae Master TOKYO, Shiro & Kuro, Chu & Han): https://ngocbuildxuan.github.io/cafee-privacy/games.html
